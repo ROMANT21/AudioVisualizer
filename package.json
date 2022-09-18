@@ -1,0 +1,23 @@
+{
+  "name": "audioviz",
+  "version": "1.0.0",
+  "description": "Yep",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROMANT21/AudioVisualizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROMANT21/AudioVisualizer/issues"
+  },
+  "homepage": "https://github.com/ROMANT21/AudioVisualizer#readme"
+}
